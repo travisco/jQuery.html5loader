@@ -5,8 +5,8 @@ TODO
 - testing the plug in and find all the bugs
 - branching to extend the preload with AUDIO and VIDEO elements
 - create more graphic feature with canvas
-- try to get the percentage even in the browser that don't support ajax
-- fix the bugs with mobile devices 
+- try to get the percentage even in the browsers that don't support ajax
+- fix the mobile devices's bugs  
 
 THANKS
 
